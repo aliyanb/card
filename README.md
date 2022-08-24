@@ -3,7 +3,7 @@
 
 ## Usage
 
-Склонировать репозиторий команды 
+Склонировать репозиторий командой 
 ```
 git clone https://github.com/aliyanb/card.git
 ```
@@ -15,7 +15,7 @@ git clone https://github.com/aliyanb/card.git
 ```
 (sourse <name_venv>/bin/activate)
 ```
-Устаовить все зависимости проекта из req.txt 
+Установить все зависимости проекта из req.txt 
 ```
 (pip install -r req.txt)
 ```
